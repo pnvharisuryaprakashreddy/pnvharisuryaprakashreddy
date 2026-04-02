@@ -19,8 +19,6 @@ I’ve built real-world projects involving CI/CD pipelines, containerized deploy
 • Web Technologies: HTML, CSS, JavaScript  
 • Concepts: Cloud Architecture, System Design, Scalable Applications  
 
-💡 Currently, I’m expanding my expertise in **Cloud, DevOps, and scalable system design**.
-
 ---
 
 ## 🌐 Socials:
@@ -65,11 +63,12 @@ I’ve built real-world projects involving CI/CD pipelines, containerized deploy
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pnvharisuryaprakashreddy&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pnvharisuryaprakashreddy&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pnvharisuryaprakashreddy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pnvharisuryaprakashreddy&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pnvharisuryaprakashreddy&theme=tokyonight&utcOffset=5.5" />
 </p>
 
 ---
