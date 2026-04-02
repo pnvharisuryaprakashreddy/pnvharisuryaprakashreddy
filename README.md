@@ -65,12 +65,11 @@ I’ve built real-world projects involving CI/CD pipelines, containerized deploy
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pnvharisuryaprakashreddy&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pnvharisuryaprakashreddy&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=pnvharisuryaprakashreddy&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pnvharisuryaprakashreddy&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pnvharisuryaprakashreddy&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -78,7 +77,7 @@ I’ve built real-world projects involving CI/CD pipelines, containerized deploy
 ## 🔝 Top Contributed Repo
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pnvharisuryaprakashreddy&theme=tokyonight" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pnvharisuryaprakashreddy&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
